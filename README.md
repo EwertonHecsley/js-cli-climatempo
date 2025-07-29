@@ -76,7 +76,7 @@ cli-climatempo/
   <p>Desenvolvido com 💻 por <strong>Ewerton Hecsley</strong></p>
 
   <ul>
-    <li><a href="https://github.com/Ewerton" target="_blank">GitHub: github.com/Ewerton</a></li>
+    <li><a href="https://github.com/EwertonHecsley" target="_blank">GitHub: github.com/Ewerton</a></li>
     <li><a href="https://www.linkedin.com/in/ewerton-hecsley-8a613992" target="_blank">LinkedIn: ewerton-hecsley</a></li>
   </ul>
 
